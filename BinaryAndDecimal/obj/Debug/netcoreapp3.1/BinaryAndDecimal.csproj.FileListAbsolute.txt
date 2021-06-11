@@ -1,0 +1,13 @@
+C:\Users\cupca\Desktop\BinaryAndDecimal\BinaryAndDecimal\bin\Debug\netcoreapp3.1\BinaryAndDecimal.exe
+C:\Users\cupca\Desktop\BinaryAndDecimal\BinaryAndDecimal\bin\Debug\netcoreapp3.1\BinaryAndDecimal.deps.json
+C:\Users\cupca\Desktop\BinaryAndDecimal\BinaryAndDecimal\bin\Debug\netcoreapp3.1\BinaryAndDecimal.runtimeconfig.json
+C:\Users\cupca\Desktop\BinaryAndDecimal\BinaryAndDecimal\bin\Debug\netcoreapp3.1\BinaryAndDecimal.runtimeconfig.dev.json
+C:\Users\cupca\Desktop\BinaryAndDecimal\BinaryAndDecimal\bin\Debug\netcoreapp3.1\BinaryAndDecimal.dll
+C:\Users\cupca\Desktop\BinaryAndDecimal\BinaryAndDecimal\bin\Debug\netcoreapp3.1\BinaryAndDecimal.pdb
+C:\Users\cupca\Desktop\BinaryAndDecimal\BinaryAndDecimal\obj\Debug\netcoreapp3.1\BinaryAndDecimal.csprojAssemblyReference.cache
+C:\Users\cupca\Desktop\BinaryAndDecimal\BinaryAndDecimal\obj\Debug\netcoreapp3.1\BinaryAndDecimal.AssemblyInfoInputs.cache
+C:\Users\cupca\Desktop\BinaryAndDecimal\BinaryAndDecimal\obj\Debug\netcoreapp3.1\BinaryAndDecimal.AssemblyInfo.cs
+C:\Users\cupca\Desktop\BinaryAndDecimal\BinaryAndDecimal\obj\Debug\netcoreapp3.1\BinaryAndDecimal.csproj.CoreCompileInputs.cache
+C:\Users\cupca\Desktop\BinaryAndDecimal\BinaryAndDecimal\obj\Debug\netcoreapp3.1\BinaryAndDecimal.dll
+C:\Users\cupca\Desktop\BinaryAndDecimal\BinaryAndDecimal\obj\Debug\netcoreapp3.1\BinaryAndDecimal.pdb
+C:\Users\cupca\Desktop\BinaryAndDecimal\BinaryAndDecimal\obj\Debug\netcoreapp3.1\BinaryAndDecimal.genruntimeconfig.cache
